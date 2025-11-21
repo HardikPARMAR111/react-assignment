@@ -20,15 +20,6 @@ export default function PurchaseOrderView({ data, onReset }) {
       >
         {/* Header */}
         <div className="d-flex align-items-center mb-4">
-          <span
-            style={{
-              fontSize: "20px",
-              marginRight: "10px",
-              cursor: "pointer",
-            }}
-          >
-            ←
-          </span>
           <h5 className="mb-0" style={{ fontWeight: "600" }}>
             Purchase Order | View
           </h5>
