@@ -23,5 +23,5 @@
 
 ## components
 
--Purchased order form
--purchased order view
+- Purchased order form
+- Purchased order view
